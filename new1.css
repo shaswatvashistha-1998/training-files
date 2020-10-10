@@ -1,0 +1,16 @@
+body {
+    background-image:    url(white-wallpaper-11.jpg);
+    background-size:     cover;
+    background-position: center;
+    background-repeat:   no-repeat;
+    height: 1000px;
+        }
+    .image{
+        margin-top: -40px;
+        position: relative;
+        width: 100px;
+        height: 100px;
+    }    
+.rows{
+    display: inline;
+}
